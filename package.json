@@ -4,7 +4,11 @@
   "description": "javascript and dependencies",
   "main": "app.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "install": "npm install --save-dev jest",
+    "watch": "jest --watchAll",
+    "start": "node app.js",
+    "clean": "rm -rf node_modules"
   },
   "repository": {
     "type": "git",
