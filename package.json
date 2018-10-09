@@ -1,0 +1,26 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "javascript and dependencies",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnarArnar/lab-exercise-1.git"
+  },
+  "keywords": [
+    "Hugb",
+    "Java"
+  ],
+  "author": "Arnar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArnarArnar/lab-exercise-1/issues"
+  },
+  "homepage": "https://github.com/ArnarArnar/lab-exercise-1#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
